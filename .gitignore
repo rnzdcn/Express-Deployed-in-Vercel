@@ -1,4 +1,4 @@
 node_modules
 .idea
-pnpm-lock.yaml
+#pnpm-lock.yaml
 dist
